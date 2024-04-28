@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brooke :) @nicolesgetaway
 - 👀 I’m interested in graphic design, front-end/web development, and UX.
-- 🌱 I’m currently learning: brushing uo on data structure implementation and (slowly) learning how to actually use GitHub.
+- 🌱 I’m currently learning: Converting my Java knowledge to Python, HTML/CSS, brushing up on data structure implementation and (slowly) learning how to actually use GitHub.
 - 📫 How to reach me: email @ bnharris1011@gmail.com
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I settled on being a software developer back in 5th grade :) 
